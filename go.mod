@@ -1,4 +1,4 @@
-module github.com/microsoft/ApplicationInsights-Go
+module github.com/osangenis/ApplicationInsights-Go
 
 go 1.23
 
